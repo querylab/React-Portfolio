@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://drive.google.com/file/d/1VvhYD08yzMcIZM7FiMxr1dvWYeQVXCDb/view?usp=sharing",
+      "company": "irobot",
+      "title": "Robot Avoid Obstacle and Line Follower",
+      "dateFrom": "2017",
+      "dateTo": "2018",
+      "info": [
+        " This project was designed with the purpose of integrating the ultrasonic sensor and the DC motors in a system capable of moving independently",
+        "HC-SR04 ultrasonic sensor, in addition to 3 infrared sensors,a led and a buzzer the main idea is to create a robot that can follow a black line on a track, marked with a white background and that can move along the black line, in addition to this you can also detect flat objects located vertically in your path,which are at a distance of 10-12cm,once you detect the object stops and when you remove it continue."
+      ],
+      "stack": ["C++", "Arduino", "Hardware", "Design"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://www.presente.educational",
+      "company": "Presente",
+      "title": "Smart Attendance",
+      "dateFrom": "2019",
+      "dateTo": "Current",
+      "info": [
+        "The attendance of students to a classroom is essential. To keep record, instructors take daily attendance which is a tedious and slow process.",
+        "This work aims to facilitate the process to keep attendance records.",
+        "Employs Bluetooth technology. "
+      ],
+      "stack": ["Android", "Java", "Design", "UI/UX","Bluetooth"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
+    }
+  ]
+}

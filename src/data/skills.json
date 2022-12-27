@@ -1,0 +1,65 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Design",
+      "amount": "95"
+    },
+
+    {
+      "id": 1,
+      "skillName": "Java",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "React.js",
+      "amount": "85"
+    },
+    {
+      "id": 3,
+      "skillName": "Docker",
+      "amount": "90"
+    },
+
+    { "id": 4, "skillName": "Javascript", "amount": "76" },
+
+    {
+      "id": 5,
+      "skillName": "Node.js",
+      "amount": "73"
+    },
+    {
+      "id": 6,
+      "skillName": "REST",
+      "amount": "73"
+    },
+
+    {
+      "id": 7,
+      "skillName": "Python",
+      "amount": "63"
+    },
+    
+    {
+      "id": 8,
+      "skillName": "C++",
+      "amount": "90"
+    },
+
+    {
+      "id": 8,
+      "skillName": "Firebase",
+      "amount": "83"
+    },
+
+    {
+      "id": 8,
+      "skillName": "SQL",
+      "amount": "88"
+    }
+
+
+
+  ]
+}
