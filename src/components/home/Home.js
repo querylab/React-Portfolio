@@ -9,7 +9,7 @@ import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/ricksanchez.jpg'
-import linkedin from '../../images/social/github.png'
+import linkedin from '../../images/social/link2.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
@@ -51,11 +51,11 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://github.com/querylab"
+                  href="https://linktr.ee/querylab"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={linkedin} alt="Github Logo" width="50px" />
+                  <img src={linkedin} alt="LinkTree Logo" width="50px" />
                 </a>
               </div>
             </Bounce>

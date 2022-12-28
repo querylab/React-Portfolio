@@ -29,7 +29,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://twitter.com/queryhunter_"
+            href="https://twitter.com/querylab_"
             target="_blank"
             rel="noopener noreferrer"
           >
