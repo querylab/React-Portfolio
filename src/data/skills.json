@@ -46,15 +46,20 @@
       "skillName": "C++",
       "amount": "90"
     },
+    {
+      "id": 9,
+      "skillName": "AWS",
+      "amount": "69"
+    },
 
     {
-      "id": 8,
+      "id": 10,
       "skillName": "Firebase",
       "amount": "83"
     },
 
     {
-      "id": 8,
+      "id": 11,
       "skillName": "SQL",
       "amount": "88"
     }
