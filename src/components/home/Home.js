@@ -9,7 +9,7 @@ import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/ricksanchez.jpg'
-import linkedin from '../../images/social/link1.png'
+import linkedin from '../../images/social/share102.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
@@ -28,7 +28,7 @@ const Home = () => {
             <h1 className="greeting-text">
               Hi, I'm <span className="name">Emmanuel Gonzalez</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
-                🤙🏽
+               🤙
               </span>
             </h1>
             <h1 className="greeting-text">
