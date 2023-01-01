@@ -9,7 +9,7 @@ import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/ricksanchez.jpg'
-import linkedin from '../../images/social/link2.png'
+import linkedin from '../../images/social/link1.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
