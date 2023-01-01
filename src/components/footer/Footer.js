@@ -7,7 +7,7 @@ const Footer = () => {
       <p className="copyright">
         Made with{' '}
         <span role="img" aria-label="thinking">
-          ❤️
+        💚
         </span>{' '}
         by Emmanuel Gonzalez
       </p>
