@@ -48,7 +48,7 @@ const About = () => {
                     'Fixing Hard-to-Fix Bugs',
                     'Research',
                     'Bug Bounty',
-                    'Trying New Technologies',
+                    'Learning New Technologies',
                     'Collaborating With Others',
                   ],
                   autoStart: true,
