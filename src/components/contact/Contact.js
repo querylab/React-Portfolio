@@ -3,9 +3,9 @@ import './Contact.css'
 import Section from '../section/Section'
 import { Bounce } from 'react-reveal'
 import ContactForm from '../contactForm/ContactForm'
-import linkedin from '../../images/social/medium101.png'
-import github from '../../images/social/github102.png'
-import facebook from '../../images/social/twitter101.png'
+import linkedin from '../../images/social/medium102.png'
+import github from '../../images/social/github.png'
+import facebook from '../../images/social/twitter103.png'
 
 const Contact = () => {
   return (

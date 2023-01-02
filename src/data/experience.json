@@ -13,8 +13,8 @@
       ],
       "stack": ["C++", "Arduino", "Hardware", "Design"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+      "colourPrimary": "linear-gradient(to bottom, #0be779, #3b4353)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       ],
       "stack": ["Android", "Java", "Design", "UI/UX","Bluetooth"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourPrimary": "linear-gradient(to bottom, #0be779, #3b4353)",
       "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
     }
   ]
