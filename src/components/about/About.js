@@ -44,11 +44,11 @@ const About = () => {
                 options={{
                   strings: [
                     'Learning New Technologies',
-                    'Bug Bounty',
                     'Solving Complex Problems',
-                    'skiing',
                     'Fixing Hard-to-Fix Bugs',
-                    'Trying New Things',
+                    'Research',
+                    'Bug Bounty',
+                    'Trying New Technologies',
                     'Collaborating With Others',
                   ],
                   autoStart: true,
@@ -58,8 +58,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-            From a very young age, I have dedicated my time to search and learn new technologies,
-             and forms of digital expression.
+            From a very young age, I have dedicated my time to search and learn new technologies.
             </p>
             <div className="location-wrapper">
               <svg
