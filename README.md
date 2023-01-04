@@ -1,6 +1,6 @@
 <div align="center">
   <h1><br>Querylab Portfolio</h1>
-  <h3>Made with ReactJs</h3>
+  <h3>Made with React.js</h3>
   <p>Home background effect made with React-Particles</p>
 </div>
 
