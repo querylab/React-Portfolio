@@ -9,7 +9,7 @@ const Footer = () => {
         <span role="img" aria-label="thinking">
         💚
         </span>{' '}
-        by Emmanuel Gonzalez
+        by Emy
       </p>
     </footer>
   )
