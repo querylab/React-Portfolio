@@ -62,6 +62,11 @@
       "id": 11,
       "skillName": "SQL",
       "amount": "88"
+    }, 
+    {
+      "id": 12,
+      "skillName": "Kotlin",
+      "amount": "69"
     }
 
 
