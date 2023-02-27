@@ -11,6 +11,7 @@ import TopButton from './components/topButton/TopButton'
 function App() {
   return (
     <div className="App">
+      <script async defer data-website-id="d9691128-7b5b-495a-b43c-1495fd627698" src="https://umami-54r3.onrender.com/umami.js"></script>
       <Home />
       <About />
       <Experience />
@@ -21,5 +22,7 @@ function App() {
     </div>
   )
 }
+
+
 
 export default App
