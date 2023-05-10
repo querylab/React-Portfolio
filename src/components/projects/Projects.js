@@ -44,7 +44,7 @@ const client = new ApolloClient({
 })
 
 const queryInfo = {
-  owner: 'jigalin',
+  owner: 'querylab',
   repositories: [
     'portfolio-landing-page',
     'react-pokedex',

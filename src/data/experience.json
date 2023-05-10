@@ -16,31 +16,13 @@
       "colourPrimary": "linear-gradient(to bottom, #0be779, #3b4353)",
       "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
     },
-   
     {
       "id": 2,
-      "link": "https://drive.google.com/file/d/1Phuz7xOdCP3y9fAqDi-oc8Yo7eAaQIlA/view?usp=sharing",
-      "company": "robito",
-      "title": "Robot Avoid Obstacle",
-      "dateFrom": "2017",
-      "dateTo": "2018",
-      "info": [
-        " This Project was Designed with the purpose of integrating the ultrasonic sensor and the DC motors in a system capable of moving independently" ,
-        " The Code Designed can be modified on the basis of the need for any person, since he himself provides the elements of editing to be able to adjust",
-         "The Sweep Speed of the ultrasonic sensor, the implementation of the engines of movement and displacement of the servo used to aid the analysis of the data needed to achieve continue a system of uninterrupted movement."
-      ],
-      "stack": ["C++", "Arduino", "Hardware", "Design"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #0be779, #3b4353)",
-      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #FFFFFF)"
-    },
-    {
-      "id": 3,
       "link": "https://drive.google.com/file/d/12v-Peti1MQHF9WsTqw8qm4dPv7o2k0NW/view?usp=share_link",
       "company": "Presente",
       "title": "Smart Attendance",
-      "dateFrom": "2018",
-      "dateTo": "2019",
+      "dateFrom": "2019",
+      "dateTo": "2020",
       "info": [
         "The Attendance of Students to a Classroom is essential. To keep record, instructors take daily attendance which is a tedious and slow process. ",
         "This Work aims to Facilitate the Process to keep attendance records.",
