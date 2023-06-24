@@ -11,8 +11,8 @@ import TopButton from './components/topButton/TopButton'
 function App() {
   return (
     <div className="App">
-      <script async defer data-website-id="d9691128-7b5b-495a-b43c-1495fd627698" src="https://umami-54r3.onrender.com/umami.js"></script>
-      <Home />
+    <script async src="https://www.thatquery.com/script.js" data-website-id="eca43b21-e545-49ae-a7ff-fb2c1060a1c6"></script>        
+       <Home />
       <About />
       <Experience />
       <Projects />
