@@ -9,10 +9,13 @@ import Footer from './components/footer/Footer'
 import TopButton from './components/topButton/TopButton'
 
 function App() {
+ 
   return (
+    
     <div className="App">
-    <script async src="https://www.thatquery.com/script.js" data-website-id="eca43b21-e545-49ae-a7ff-fb2c1060a1c6"></script>        
+ <script async src="http://umami.thatquery.com:3907/script.js" data-website-id="e75b4cc9-98ae-4d16-aa22-e2936ca110a5"></script>       
        <Home />
+       <script async src="http://umami.thatquery.com:3907/script.js" data-website-id="e75b4cc9-98ae-4d16-aa22-e2936ca110a5"></script>
       <About />
       <Experience />
       <Projects />
