@@ -13,9 +13,9 @@ function App() {
   return (
     
     <div className="App">
- <script async src="http://umami.thatquery.com:3907/script.js" data-website-id="e75b4cc9-98ae-4d16-aa22-e2936ca110a5"></script>       
+ <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>     
        <Home />
-       <script async src="http://umami.thatquery.com:3907/script.js" data-website-id="e75b4cc9-98ae-4d16-aa22-e2936ca110a5"></script>
+       <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>
       <About />
       <Experience />
       <Projects />
