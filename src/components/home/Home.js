@@ -16,7 +16,8 @@ const Home = () => {
   return (
     <div className="home-wrapper">
       <div className="home">
-      <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>
+      <script async src="http://3.237.181.107:3001/script.js" data-website-id="72e5581f-4c4d-4a09-a163-44aa4912d930"></script>
+      <script defer data-domain="cyberwep.com" src="http://3.237.181.107:8998/js/script.js"></script> 
         <Particles className="particles" params={config.particles} />
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
@@ -60,7 +61,8 @@ const Home = () => {
                 </a>
               </div>
             </Bounce>
-            <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>
+            <script async src="http://3.237.181.107:3001/script.js" data-website-id="72e5581f-4c4d-4a09-a163-44aa4912d930"></script>
+            <script defer data-domain="cyberwep.com" src="http://3.237.181.107:8998/js/script.js"></script> 
             <div className="scroll-down">
               <Link
                 activeClass="active"

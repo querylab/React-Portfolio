@@ -7,15 +7,18 @@ import Projects from './components/projects/Projects'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import TopButton from './components/topButton/TopButton'
+import * as Swetrix from 'swetrix'
 
 function App() {
  
   return (
     
     <div className="App">
- <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>     
+      <script async src="http://3.237.181.107:3001/script.js" data-website-id="72e5581f-4c4d-4a09-a163-44aa4912d930"></script>
+<script defer data-domain="cyberwep.com" src="http://3.237.181.107:8998/js/script.js"></script>  
        <Home />
-       <script async src="http://umami.thatquery.com:3000/script.js" data-website-id="dc7205ac-a862-4a1e-b1c7-e2e778f22c01"></script>
+       <script async src="http://3.237.181.107:3001/script.js" data-website-id="72e5581f-4c4d-4a09-a163-44aa4912d930"></script>
+       <script defer data-domain="cyberwep.com" src="http://3.237.181.107:8998/js/script.js"></script> 
       <About />
       <Experience />
       <Projects />
