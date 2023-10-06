@@ -14,9 +14,16 @@ import linkedin from '../../images/social/share102.png'
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
   return (
+    
     <div className="home-wrapper">
+      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
       <div className="home">
+      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
         <Particles className="particles" params={config.particles} />
+        <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
             <img
@@ -31,6 +38,8 @@ const Home = () => {
                🤙
               </span>
             </h1>
+            <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
             <h1 className="greeting-text">
               <Typewriter
                 options={{
@@ -68,6 +77,8 @@ const Home = () => {
                 offset={-63}
                 duration={500}
               >
+                <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
                 <ArrowDropDownCircleIcon
                   fontSize="large"
                   style={{ pointerEvents: 'fill', cursor: 'pointer' }}
