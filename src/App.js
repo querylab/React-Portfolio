@@ -13,23 +13,23 @@ function App() {
   return (
     
     <div className="App">
-      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+        <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
        <Home />
-       <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+       <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
       <About />
-      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
       <Experience />
-      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
       <Projects />
-      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
       <Contact />
-      <script async src="https://ackee.thatquery.com/tracker.js" data-ackee-server="https://ackee.thatquery.com" data-ackee-domain-id="666020f6-e2d4-4b79-a471-6476a58a366d"></script>
-       <script async src="https://umami.thatquery.com/script.js" data-website-id="f9cfe946-5756-4a8b-ad7e-acacb4f963f7"></script>
+      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
+  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
       <Footer />
       <TopButton />
     </div>
