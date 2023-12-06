@@ -13,23 +13,23 @@ function App() {
   return (
     
     <div className="App">
-        <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+        <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+        <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
        <Home />
-       <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+       <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+       <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <About />
-      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+      <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+      <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <Experience />
-      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+      <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+      <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <Projects />
-      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+      <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+      <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <Contact />
-      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+      <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+      <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <Footer />
       <TopButton />
     </div>

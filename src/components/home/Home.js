@@ -16,14 +16,14 @@ const Home = () => {
   return (
     
     <div className="home-wrapper">
-     <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+     <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+     <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
       <div className="home">
-      <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+      <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+      <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
         <Particles className="particles" params={config.particles} />
-        <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+        <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+        <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
             <img
@@ -38,8 +38,8 @@ const Home = () => {
                🤙
               </span>
             </h1>
-            <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+            <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+            <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
             <h1 className="greeting-text">
               <Typewriter
                 options={{
@@ -77,8 +77,8 @@ const Home = () => {
                 offset={-63}
                 duration={500}
               >
-             <script async src="https://umami-analytics.thatquery.com/script.js" data-website-id="1c854571-ec69-4e18-9527-be328fb797e5"></script>
-  <script defer data-domain="cyberwep.com" src="https://plausible-analytics.thatquery.com/js/script.js"></script>
+             <script async src="https://umami.thatquery.com/script.js" data-website-id="477613e9-0598-40f5-bc33-e572ba39af23"></script>
+             <script defer data-domain="cyberwep.com" src="https://plausible.thatquery.com/js/script.js"></script>
                 <ArrowDropDownCircleIcon
                   fontSize="large"
                   style={{ pointerEvents: 'fill', cursor: 'pointer' }}
